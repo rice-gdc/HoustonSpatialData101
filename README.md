@@ -20,7 +20,7 @@ The [GIS/Data Center](https://library.rice.edu/places/gisdata-center-gdc) hosts 
 
 # Geospatial Data Repositories for the Greater Houston Region
 
-The Greater Houston region utilizes a multi-tiered network of geographic information systems (GIS) to support public administration and environmental risk mitigation [4]. Below is an organized list of geospatial data repositories, categorized by agency responsibility [4, 5].
+The Greater Houston region has a multiple tiered levels and networks of geographic information systems (GIS) to support public data collection. Below is an organized list of geospatial data repositories, categorized from local to global.
 
 ## Municipal Repositories (City of Houston)
 
@@ -33,11 +33,11 @@ The City of Houston distributes spatial information through several specialized 
 
 ## County-Level Repositories (Harris County and HCAD)
 
-Harris County repositories prioritize public safety, health, properties, and administrative spatial infrastructure.
+Harris County and HCAD repositories contain spatial data for the geography of the county, which includes the city of Houston.
 
 - [Harris County GIS Open Data Portal](https://geo-harriscounty.opendata.arcgis.com/): The primary gateway for county-wide spatial data, offering layers for **Constable Precincts**, county facilities, school districts, and socioeconomic indicators.
 - [Services Portal Dashboards & Datasets Hub](https://www.harriscountytx.gov/Services-Portal/Dashboards-Datasets-Hub): A centralized location for real-time dashboards, including air quality monitoring, and county service locators.
-- [Harris Central Appraisal District](https://hcad.org/pdata/pdata-gis-downloads.html): The Harris Central Appraisal District (HCAD) provides GIS data on local parcels, ownership, taxes, and property values. Download current or historic spatial data on the [HCAD Public Data page](https://hcad.org/pdata/pdata-gis-downloads.html) or browse this data using the [HCAD Parcel-Viewer](https://arcweb.hcad.org/parcel-viewer-v2.0/)
+- [Harris Central Appraisal District](https://hcad.org/pdata/pdata-gis-downloads.html): The Harris Central Appraisal District (HCAD) provides GIS data on local parcels, ownership, taxes, and property values. Download current or historic spatial data on the [HCAD Public Data page](https://hcad.org/pdata/pdata-gis-downloads.html) or browse this data using the [HCAD Parcel-Viewer](https://arcweb.hcad.org/parcel-viewer-v2.0/).
 
 ## Regional Repositories (H-GAC)
 
