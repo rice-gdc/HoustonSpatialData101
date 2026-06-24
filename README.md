@@ -1,4 +1,4 @@
-# The Rice University Urban Sustainability Hackathon - Houston Spatial Data 101
+# The Rice Urban Sustainability Hackathon - Houston Spatial Data 101
 ![alt text](https://github.com/rice-gdc/HoustonSpatialData101/blob/main/Fondren-GIS-Data-Center-Lock-up-2-Color.png)
 This guide to local spatial data for the greater Houston Region by the [Fondren GIS/Data Center](https://library.rice.edu/gdc) will show you all the useful spatial datasets available to the general public and to researchers at Rice Unviersity that will be useful in the four challenge tracks (Transportation & Access, Energy–Food–Water Nexus, Public Health & the Built Environment, High Intensity Corridors & Future Growth Districts) for the [2026 World Cup Rice Urban Sustainability Hackathon](https://rice-urban-sustainability.devpost.com/?ref_feature=challenge&ref_medium=discover). 
 
