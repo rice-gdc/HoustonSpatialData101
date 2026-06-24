@@ -1,12 +1,6 @@
 # Houston Spatial Data 101
 ![alt text](https://github.com/rice-gdc/HoustonSpatialData101/blob/main/Fondren-GIS-Data-Center-Lock-up-2-Color.png)
-This guide to local Spatial Data for the greater Houston Region by the Fondren GIS/Data Center (https://library.rice.edu/gdc) will show you all the useful spatial datasets available to the general public and to researchers at Rice Unviersity. 
-
-## Table of Contents
-1. [ArcGIS Online](#arcgis-online)
-2. [Local Houston Data](#Local Houston Data)
-3. [Deep Dive Section](#deep-dive-section)
-   - [Sub-feature A](#sub-feature-a)
+This guide to local Spatial Data for the greater Houston Region by the [Fondren GIS/Data Center](https://library.rice.edu/gdc) will show you all the useful spatial datasets available to the general public and to researchers at Rice Unviersity. 
 
 # ArcGIS Online 
 To access the full range of spatial datasets in ArcGIS, log into the [Rice ArcGIS Organization](https://riceuniversity.atlassian.net/wiki/external/ZjNkMDZkNzcxYzVhNGVjZWE5NzMyZDgyYmM2NGQxMTM). 
