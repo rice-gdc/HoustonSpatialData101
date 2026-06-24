@@ -57,46 +57,46 @@ The Greater Houston region utilizes a multi-tiered network of geographic informa
 
 ## Municipal Repositories (City of Houston)
 
-The City of Houston distributes spatial information through several specialized portals to encourage civic engagement and transparency [6, 7].
+The City of Houston distributes spatial information through several specialized portals.
 
-- [City of Houston Open Data Portal](https://data.houstontx.gov/): This general catalog hosts both spatial and non-spatial datasets, including **HPD Crime Statistics**, building permits, and American Community Survey (ACS) demographic estimates [6, 8, 9].
-- [MyCity GIS Open Data Portal](https://houston-mycity.opendata.arcgis.com/): A user-centric hub providing interactive web mapping applications such as the **"Who Is My Council Member?"** tool and the **Houston 311 Service Request Viewer** [10-12].
-- [Houston Public Works (HPW) Open Data Hub](https://geohub.houstontx.gov/): This repository focuses specifically on infrastructure data, including traffic count inventories and utility networks [13-15].
-- [Housing Resource & Data Center](https://houstontx.gov/housing/research.html): A specialized hub for policy research that provides maps related to affordable housing, **Social Vulnerability Indices**, and market value analysis [16-18].
-- [City of Houston Geolink REST Directory](https://geogimsprod.houstontx.gov/Geocortex/Essentials/REST/sites/Public_Geolink/map): This technical backend provides programmatic access to active services mapping wastewater, water, and stormwater utility networks [19-21].
+- [City of Houston Open Data Portal](https://data.houstontx.gov/): This general catalog hosts both spatial and non-spatial datasets, including **HPD Crime Statistics** and 311 service requests.
+- [MyCity GIS Open Data Portal](https://houston-mycity.opendata.arcgis.com/): A GIS data hub providing spatial datasets on administrative boundaries, local transportation,  parks, planning, as well as school, police, and fire districts.
+- [Houston Public Works (HPW) Open Data Hub](https://geohub.houstontx.gov/): This repository from the city Public Works department focuses specifically on infrastructure data, including traffic count inventories and utility networks, sewage and wastewater, drainage, sidewalks, and permits. The [Public GeoLink Map](https://geogimsprod.houstontx.gov/Html5Viewer/index.html?viewer=geolink-public) allows for download of up to 2000 records of these layers at a time.
+- [City of Houston Geolink REST Directory](https://geogimsprod.houstontx.gov/Geocortex/Essentials/REST/sites/Public_Geolink/map): This technical backend provides programmatic access to active services mapping wastewater, water,  stormwater utility networks, and other city public spatial data.
 
 ## County-Level Repositories (Harris County)
 
 Harris County repositories prioritize public safety, health, and administrative spatial infrastructure [22, 23].
 
-- [Harris County GIS Open Data Portal](https://geo-harriscounty.opendata.arcgis.com/): The primary gateway for county-wide spatial data, offering layers for **Constable Precincts**, school districts, and socioeconomic indicators [22, 24, 25].
-- [Services Portal Dashboards & Datasets Hub](https://www.harriscountytx.gov/Services-Portal/Dashboards-Datasets-Hub): A centralized location for real-time dashboards, including air quality monitoring and county service locators [22, 26, 27].
-- [Harris County Flood Education Mapping Tool (FEMT)](https://www.harriscountyfemt.org/): An interactive platform managed by the Flood Control District to help users visualize **100-year and 500-year floodplains** and localized ponding risks [28-30].
-- [Flood Warning System](https://www.harriscountyfws.org/): Provides real-time data on channel status, rainfall rates, and watershed conditions across the county [31, 32].
+- [Harris County GIS Open Data Portal](https://geo-harriscounty.opendata.arcgis.com/): The primary gateway for county-wide spatial data, offering layers for **Constable Precincts**, county facilities, school districts, and socioeconomic indicators.
+- [Services Portal Dashboards & Datasets Hub](https://www.harriscountytx.gov/Services-Portal/Dashboards-Datasets-Hub): A centralized location for real-time dashboards, including air quality monitoring, and county service locators.
 
 ## Regional Repositories (H-GAC)
 
-The Houston-Galveston Area Council (H-GAC) coordinates regional datasets across an 8-to-13-county Gulf Coast footprint [33].
+The **[Houston-Galveston Area Council (H-GAC)](https://www.h-gac.com/Home)** coordinates regional datasets across an 13-county area along the Texas Gulf Coast that make up the greater Houston region.
 
-- [H-GAC Regional GIS Data Hub](https://gishub-h-gac.hub.arcgis.com/): A collective repository for regional open data sets, including environment, transportation, and geodetic resources [33-35].
-- [Regional Land Use Information System](https://www.h-gac.com/land-use-and-land-cover-data): This portal distributes H-GAC’s long-range **Socioeconomic Forecasts** and high-resolution Land Use Land Cover (LULC) datasets [36-38].
-- [H-GAC Research and Data](https://www.h-gac.com/research): This site hosts specialized research outputs such as the **Activity-Connectivity Explorer (ACE HEX GRID)** and regional water quality monitoring data [39-41].
+- [H-GAC Regional GIS Data Hub](https://gishub-h-gac.hub.arcgis.com/): A collective repository for regional open data sets, including environment, transportation, including **Metro bus routes and stops**, and geodetic resources.
+- [H-GAC Research and Data](https://www.h-gac.com/research): This site hosts specialized research outputs such as the **Activity-Connectivity Explorer** and regional water quality monitoring data.
+- [H-GAC Interactive Web Applications Directory](https://www.h-gac.com/interactive-web-applications): A list of dashboards and interactive maps for regional planning, transportation, housing, and many other topics. 
 
 ## State-Level Repositories (Texas)
 
-State agencies compile local data into standardized statewide registries for planning and permitting [42].
+State agencies compile local data into standardized statewide registries for planning and permitting.
 
-- [TxGIO DataHub](https://data.geographic.texas.gov/): Managed by the **Texas Geographic Information Office**, this is the state’s central clearinghouse for standardized land parcels, address points, and high-resolution imagery [42-44].
-- [Texas General Land Office (GLO) GIS Data](https://www.glo.texas.gov/land/gis-maps-and-data): The authoritative source for **coastal leases**, offshore oil and gas structures, and environmental sensitivity index shoreline data [45-47].
-- [TxDOT Open Data Portal](https://gis-txdot.opendata.arcgis.com/): This portal serves as the definitive repository for state transportation infrastructure, including the **TxDOT Roadways** linear referenced network [48, 49].
-- [Texas Water Development Board (TWDB) GIS Data](https://www.twdb.texas.gov/mapping/gisdata.asp): Provides spatial data related to aquifers, river basins, and administrative water planning boundaries [50-52].
+- [TxGIO DataHub](https://data.geographic.texas.gov/): Managed by the **Texas Geographic Information Office**, this is the state’s central clearinghouse for standardized land parcels, address points, streams, rivers, lakes, and waterwheds, and high-resolution imagery, Bathymetry, and LiDAR.
+- [Texas General Land Office (GLO) GIS Data](https://www.glo.texas.gov/land/gis-maps-and-data): The authoritative source for coastal leases, offshore oil and gas structures, and environmental sensitivity index shoreline data.
+- [TxDOT Open Data Portal](https://gis-txdot.opendata.arcgis.com/): This portal serves as the definitive repository for state transportation infrastructure, including the **TxDOT Roadways** linear referenced network.
+- [Texas Water Development Board (TWDB) GIS Data](https://www.twdb.texas.gov/mapping/gisdata.asp): Provides spatial data related to aquifers, river basins, and administrative water planning boundaries.
 
-## Federal Geospatial Frameworks
+## Federal Geospatial Data
 
-Federal agencies provide standardized national datasets with high-resolution components for the Houston region [53].
+Federal agencies provide standardized national datasets with high-resolution components for the Houston region.
 
-- [USGS The National Map](https://www.usgs.gov/tools/download-data-maps-national-map): A collection of free geographic datasets describing the landscape, including the **3D Elevation Program (3DEP)** and National Hydrography Dataset [53-55].
-- [FEMA National Flood Hazard Layer (NFHL) Viewer](https://www.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd): The best online resource for determining locations in relation to regulatory flood hazard information and **effective Flood Insurance Rate Maps (FIRMs)** [56-58].
-- [FEMA Region 6 GIS Hub](https://r6-gis-fema.hub.arcgis.com/): Provides localized post-disaster incident data and **Base Level Engineering (BLE)** models specifically for Texas and adjacent states [59, 60].
-- [NOAA Digital Coast](https://coast.noaa.gov/digitalcoast/data/home.html): Delivers coastal-focused datasets, including high-resolution shoreline vectors for **Galveston Bay** and regional land cover change data [61, 62].
-- [EPA Geospatial Data Download Service](https://www.epa.gov/frs/geospatial-data-download-service): Offers access to the **Facility Registry Service (FRS)**, which indexes sites subject to environmental regulation, such as Superfund and TRI monitors [63-65].
+- [USGS The National Map Downloader](https://apps.nationalmap.gov/downloader/)): A collection of free geographic datasets describing the landscape, including the **3D Elevation Program (3DEP)** and National Hydrography Dataset. [The USGS EarthExplorer](https://earthexplorer.usgs.gov/) is the easiest way to download Ladsat imagery and other spatial datasets. 
+- [FEMA Region 6 GIS Hub](https://r6-gis-fema.hub.arcgis.com/): Provides localized post-disaster incident data and **Base Level Engineering (BLE)** models specifically for Texas and adjacent states.
+- [NOAA Digital Coast](https://coast.noaa.gov/digitalcoast/data/home.html): Delivers coastal-focused datasets, including high-resolution shoreline vectors for **Galveston Bay** and regional land cover change data.
+- [EPA Geospatial Data Download Service](https://www.epa.gov/frs/geospatial-data-download-service): Offers access to the **Facility Registry Service (FRS)**, which indexes sites subject to environmental regulation, such as Superfund and TRI monitors.
+
+## Other Open Data Portals
+- [OpenTopography](https://opentopography.org/) provides easy to download public Digital Elevation Models (DEM), topography, coastal LiDARUSGS 3D Elevation Program (3DEP). Creating an account with a .edu email allows for full data access.
+- [Open Street Map (OSM)](https://www.openstreetmap.org/) is a ommunity created map of the world with information on roads, parks, buildings, railroads, and [much, much more](https://wiki.openstreetmap.org/wiki/Map_features). Read [this guide to downloading OSM data](https://wiki.openstreetmap.org/wiki/Downloading_data). 
